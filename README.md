@@ -8,3 +8,5 @@ Password management
 View tourist destinations
 Destination details and descriptions
 Search and filter destinations
+Display available travel packages
+Package details and pricing
