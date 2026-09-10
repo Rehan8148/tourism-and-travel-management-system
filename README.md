@@ -7,3 +7,4 @@ Secure authentication
 Password management
 View tourist destinations
 Destination details and descriptions
+Search and filter destinations
